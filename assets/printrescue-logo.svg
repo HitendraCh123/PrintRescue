@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">PrintRescue</title><desc id="desc">PrintRescue printer setup and support</desc>
+  <g fill="none" stroke="#2fa85b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 40V15h46v25M31 81H20a10 10 0 0 1-10-10V48a10 10 0 0 1 10-10h68a10 10 0 0 1 10 10v23a10 10 0 0 1-10 10H77"/>
+    <path d="M31 68h46v39H31zM44 83h20M44 94h20"/>
+    <circle cx="78" cy="51" r="3" fill="#2fa85b" stroke="none"/>
+  </g>
+  <text x="118" y="54" font-family="Manrope, Arial, sans-serif" font-size="43" font-weight="800" fill="#111a20">Print<tspan fill="#2fa85b">Rescue</tspan></text>
+  <text x="120" y="84" font-family="Manrope, Arial, sans-serif" font-size="18" font-weight="600" fill="#5b6470">Printer Setup &amp; Support</text>
+</svg>
